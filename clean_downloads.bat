@@ -1,2 +1,2 @@
 @echo off
-python "E:\python_projects\downloadsCleaner.py" %*
+python "E:\python_projects\downloads_cleaner\downloadsCleaner.py" %*
